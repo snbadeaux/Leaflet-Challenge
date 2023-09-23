@@ -1,15 +1,15 @@
 # Leaflet-Challenge
 
-#Background<br>
+# Background<br>
 
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.<br>
 The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. In this challenge, you have been tasked with developing a way to visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.<br>
 
-#The instructions for this activity are broken into two parts:<br>
+# The instructions for this activity are broken into two parts:<br>
 •	Part 1: Create the Earthquake Visualization<br>
 •	Part 2: Gather and Plot More Data (Optional with no extra points earning)<br>
 
-#Part 1: Create the Earthquake Visualization<br>
+# Part 1: Create the Earthquake Visualization<br>
  
 Your first task is to visualize an earthquake dataset. Complete the following steps:<br>
 1.	Get your dataset. To do so, follow these steps:<br>
