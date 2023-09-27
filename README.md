@@ -24,3 +24,9 @@ o	Using Leaflet, create a map that plots all the earthquakes from your dataset b
 o	Include popups that provide additional information about the earthquake when its associated marker is clicked.<br>
 o	Create a legend that will provide context for your map data.<br>
 o	Your visualization should look something like the preceding map.<br>
+
+## Credits
+  - Python Tutorial. (n.d.). https://www.w3schools.com/python/<br>
+  - Stack Overflow - Where Developers Learn, Share, & Build Careers. (n.d.). Stack Overflow. https://stackoverflow.com/<br>
+  - Leaflet https://leafletjs.com/<br>
+  - Starter code given from bootcamp class and instructions<br>
